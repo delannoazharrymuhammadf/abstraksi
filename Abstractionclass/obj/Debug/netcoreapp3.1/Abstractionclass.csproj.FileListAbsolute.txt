@@ -1,0 +1,13 @@
+E:\PEMROGRAMAN\Abstraksi\Abstractionclass\bin\Debug\netcoreapp3.1\Abstractionclass.exe
+E:\PEMROGRAMAN\Abstraksi\Abstractionclass\bin\Debug\netcoreapp3.1\Abstractionclass.deps.json
+E:\PEMROGRAMAN\Abstraksi\Abstractionclass\bin\Debug\netcoreapp3.1\Abstractionclass.runtimeconfig.json
+E:\PEMROGRAMAN\Abstraksi\Abstractionclass\bin\Debug\netcoreapp3.1\Abstractionclass.runtimeconfig.dev.json
+E:\PEMROGRAMAN\Abstraksi\Abstractionclass\bin\Debug\netcoreapp3.1\Abstractionclass.dll
+E:\PEMROGRAMAN\Abstraksi\Abstractionclass\bin\Debug\netcoreapp3.1\Abstractionclass.pdb
+E:\PEMROGRAMAN\Abstraksi\Abstractionclass\obj\Debug\netcoreapp3.1\Abstractionclass.csprojAssemblyReference.cache
+E:\PEMROGRAMAN\Abstraksi\Abstractionclass\obj\Debug\netcoreapp3.1\Abstractionclass.csproj.CoreCompileInputs.cache
+E:\PEMROGRAMAN\Abstraksi\Abstractionclass\obj\Debug\netcoreapp3.1\Abstractionclass.AssemblyInfoInputs.cache
+E:\PEMROGRAMAN\Abstraksi\Abstractionclass\obj\Debug\netcoreapp3.1\Abstractionclass.AssemblyInfo.cs
+E:\PEMROGRAMAN\Abstraksi\Abstractionclass\obj\Debug\netcoreapp3.1\Abstractionclass.dll
+E:\PEMROGRAMAN\Abstraksi\Abstractionclass\obj\Debug\netcoreapp3.1\Abstractionclass.pdb
+E:\PEMROGRAMAN\Abstraksi\Abstractionclass\obj\Debug\netcoreapp3.1\Abstractionclass.genruntimeconfig.cache
